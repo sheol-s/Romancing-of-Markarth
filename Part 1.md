@@ -2,6 +2,7 @@
 _non Alternate Start_
 ### Someone Approaches the Player
 - "Wow, you're gorgeous!  I know some people that would love to meet you!  Take this.  Oh and dress to impress"
+
 _Goto 70_
 
 ## 10
@@ -11,20 +12,24 @@ _Alternate Start_
 - "You've grown so strong and attractive over all this time.  Since I found you on my porch."
 - "As a child you've always had such wandlust, I'm sorry I couldn't provide you more than the life of a farm hand."
 - "But, I do have a present for you!  I'm so excited.  After you finish your chores we'll celebrate."
+
 _Goto 20_
 
 ## 20
 ### Get 6 Wheat and 10 Cabbage
+
 _Goto 30_
 
 ## 30
 ### Make 2 sacks of Flour
+
 _Goto 40_
 
 ## 40
 ### Return to Sotteta Fryfnhil
 - _"I finished my chorese"_
 - "Oh, good job, you always were such a quick worker.  Now, before we celebrate I need you to go into Whirerun and sell the flour and cabbage to Carlotta Valentia."
+
 _Goto 50_
 
 ## 50
@@ -50,10 +55,14 @@ Before you can get back Idolaf Battle-Born stops you.
 - "What you'll need to do is get some clothes - dress to impress."
 - "Then get to Markarth and go to The Treasury House"
 - "There you are to catch the eye of the wealthiest member, and marry youself into a better life"
+
 _recieve Shrouded Sheos_
+
 _recieve Invitation to Cotillion ball_
+
 _Goto 70_
 
 ## 70
 ### Hand Invitation to Rhiada at The Treasury House
+
 __Goto Part 2__
