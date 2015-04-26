@@ -36,7 +36,7 @@ You should take my invitation and go, establish yourself and marry up.
 
 First, you'll need to find a way to get some clothes, and earn enough money for a carriage ride.
 
-Here take this item, it's a family heirloom and will help you.
+Here take this item (Shrouded Sheos), it's a family heirloom and will help you.
 
 ### (alternate hook)
   Someone approaches and offers an invitation, and suggests that they find appropriate clothes.
