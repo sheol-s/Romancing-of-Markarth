@@ -120,7 +120,7 @@ Here take this item, it's a family heirloom and will help you.
   
   The other lovers need to individually be handled (mini-quests) to keep them from objecting.
  
-Part 6 (The Journey Home)
+## Part 6 (The Journey Home)
   After the wedding, the PC has an estate and wealth.  (s)he can return to Sotteta to lift her out of poverty.
   
   Upon returning Sotteta is on her death bed.  She expresses how proud she is.  Tells the PC "Now that you have achieved this, you can do so much more."
